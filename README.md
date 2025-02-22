@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-Soy Micaela, una Data Scientist con un enfoque analítico que combina mi formación en Derecho con mis habilidades en Python, SQL y Machine Learning. 
+I'm Micaela, a Data Scientist with an analytical approach that combines my background in Law with my skills in Python, SQL and Machine Learning.
 
-Trabajo como freelancer, ayudando a resolver problemas y optimizar procesos a través de los datos. 
+I work as a freelancer, helping to solve problems and optimize processes through data.
 
-Aún estoy perfeccionando mis habilidades de programación y siempre estoy en busca de mejorar y aprender algo nuevo. 
+I am still honing my programming skills and am always looking to improve and learn something new.
 
-Disfruto mucho de la naturaleza, viajar y participar en voluntariados, he tenido la oportunidad de colaborar en varios proyectos sociales y ambientales en Venezuela y Ecuador. 
+I enjoy nature, traveling and volunteering, I have had the opportunity to collaborate in several social and environmental projects in Venezuela and Ecuador.
 
-¡Siempre busco nuevos retos y oportunidades para seguir creciendo!
+I'm always looking for new challenges and opportunities to keep growing!
+
    
